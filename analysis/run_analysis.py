@@ -184,7 +184,8 @@ sportmap = {"football":("football_all",1_122_581,174),
             "women's outdoor track":("generic",101_695,6),
             "men's wrestling":("generic",103_448,3),
             "men's cross-country":("generic",62_500,3),
-            "women's lacrosse":("lacrosse",142_857,1)}
+            "women's lacrosse":("lacrosse",287_622,1),
+            "men's lacrosse":("lacrosse",381_811,0)}
 srows=[]
 for sport,(mk,ae,cnt) in sportmap.items():
     mins=EM.NCAA_MIN_PER_AE.get(mk,EM.NCAA_MIN_PER_AE["generic"])

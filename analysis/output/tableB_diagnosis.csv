@@ -12,7 +12,7 @@ women's outdoor track,exertional heat illness,6.0,101695.0,athlete-exposures,0.5
 men's wrestling,exertional heat illness,3.0,103448.0,athlete-exposures,0.29,per10000AE,A
 men's cross-country,exertional heat illness,3.0,62500.0,athlete-exposures,0.48,per10000AE,A
 women's lacrosse,exertional heat illness,1.0,142857.0,athlete-exposures,0.07,per10000AE,A
-men's lacrosse,exertional heat illness,0.0,,athlete-exposures,0.0,per10000AE,A
+men's lacrosse,exertional heat illness,0.0,381811.0,athlete-exposures,0.0,per10000AE,A
 football,non-traumatic exertional death,34.0,1285095.0,player-years,2.65,per100000py,A
 football,exertional heat stroke death,8.0,1285095.0,player-years,0.62,per100000py,A
 football,exertional sickling death,12.0,1285095.0,player-years,0.93,per100000py,A
