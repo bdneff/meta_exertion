@@ -1,12 +1,17 @@
-exposure_id,population,context,metric,minutes_low,minutes_central,minutes_high,basis,source_note
-NCAA_FB_PRACTICE,NCAA football,preseason/in-season practice,total session strenuous min per AE (practice),90,120,150,PENDING S06 empirical practice-duration literature (NCAA CARA 3h preseason cap),to confirm
-NCAA_FB_COMP,NCAA football,competition,strenuous min per AE (game),150,180,210,PENDING S06,to confirm
-NCAA_MLAX,NCAA men's lacrosse,practice/comp,strenuous min per AE,80,105,130,PENDING S06,to confirm
-NCAA_WLAX,NCAA women's lacrosse,practice/comp,strenuous min per AE,80,105,130,PENDING S06,to confirm
-NCAA_SOCCER,NCAA soccer,practice/comp,strenuous min per AE,90,110,130,PENDING S06,to confirm
-NCAA_XC,NCAA cross-country,practice/comp,strenuous min per AE,45,60,90,PENDING S06,to confirm
-NCAA_WRESTLING,NCAA wrestling,practice,strenuous min per AE,90,120,150,PENDING S06,to confirm
-NCAA_BBALL,NCAA basketball,practice/comp,strenuous min per AE,90,120,150,PENDING S06,to confirm
-NCAA_GENERIC,NCAA all sports,mixed,strenuous min per AE,90,120,150,PENDING S06 pooled,to confirm
-MIL_PT_ONLY,Military recruit,formal PT only,strenuous min per training-day,45,60,90,PENDING S06 FM7-22/measured,denominator A
-MIL_ALL_STREN,Military recruit,all strenuous activity,strenuous min per training-day,120,240,360,PENDING S06 measured accelerometry,denominator B
+exposure_id,population,context,metric,minutes_low,minutes_central,minutes_high,type,source,notes
+NCAA_FB_PRACTICE_PRE,NCAA football,preseason practice,total session min,126,142,180,MEASURED,DeMartini 2011 (142±16); cap Bylaw 17.13.3.4,session wall-clock incl idle
+NCAA_FB_PRACTICE_IN,NCAA football,in-season practice,total session min,103,143,156,MEASURED,Johnson 2025 GD-2/3/4,device-on
+NCAA_FB_GAME,NCAA football,competition,total session min,66,117,169,MEASURED,Johnson 2025 (117.4±51.2),high-involvement players
+NCAA_SOCCER_W_PRACTICE,NCAA women's soccer,practice,total session min,59,76,92,MEASURED,Gentles 2018 (75.77±16.65),GPS session
+NCAA_SOCCER_W_MATCH,NCAA women's soccer,match,total session min,104,117,129,MEASURED,Gentles 2018 (116.5±12.1),whole session
+NCAA_XC,NCAA cross-country,training,min per day,65,80,101,MEASURED,Barney 2024 (F76.5 M82.9),log-based
+NCAA_BBALL,NCAA basketball,practice,total session min,95,104,114,MEASURED,Huynh 2024,PROVISIONAL 4 sessions
+NCAA_MLAX_MATCH,NCAA men's lacrosse,match,elapsed min,98,100,103,DERIVED,Moore 2025 (dist/workrate),derived not reported
+NCAA_GENERIC_PRACTICE,NCAA generic,practice,total session min,90,120,150,ASSUMED,triangulated from FB/soccer/bball,use only with wide bands
+NCAA_CARA_DAY_CAP,NCAA all,in-season regulatory,min per day,NA,NA,240,PRESCRIBED,Bylaw 17.1.7.1,upper bound only not empirical
+MIL_ARMY_PT_SESSION,Army BCT/IET,formal PT session,min per session,45,53,60,PRESCRIBED,TC 3-22.20 5-6,formal PT only (denom A component)
+MIL_ARMY_MVPA_DAY,Army BCT,all strenuous activity,MVPA min per day,133,177,182,MEASURED,Alemany 2022 (mod168+vig14); McAdam 2018,accelerometer intensity-filtered (denom B)
+MIL_ARMY_MODERATE_DAY,Army BCT,moderate activity,min per day,107,138,168,MEASURED,Alemany 2022; McAdam 2018,3-6 MET
+MIL_ARMY_VIGOROUS_DAY,Army BCT,vigorous activity,min per day,14,26,38,MEASURED,Alemany 2022; McAdam 2018; Simpson 2013,>=6 MET
+MIL_USMC_TRAINDAY,USMC recruit,training day,hours per day,NA,10,NA,PRESCRIBED,MCO 1510.32D,<=10h normally
+MIL_BUDS_HELLWEEK,BUD/S,Hell Week,days,5,5,5.5,PRESCRIBED,Spiro 2024; Tharion 2003 (>=80h),~4h total sleep; 20h/day UNVERIFIED

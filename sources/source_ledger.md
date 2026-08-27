@@ -373,3 +373,60 @@ See data/outbreaks.csv. Key verified points & CORRECTIONS:
 - Recruit-year and NCAA athlete-year are BOTH calendar denominators but recruits
   accumulate FAR more strenuous minutes/year → the per-minute normalization is
   what makes them comparable. This is the crux of the analysis.
+
+## S06 — Exposure-duration literature (VERIFIED, exposure agent)
+### CRITICAL METHOD FINDINGS
+- NCAA literature measures SESSION DURATION (wall-clock incl idle); military
+  measures MINUTES/DAY BY INTENSITY BAND (MVPA, idle excluded). NOT the same
+  construct — a 142-min football practice ≠ 182 MVPA min/day. Compare like-for-like.
+- **Kloss 2024: USMC POI designates 46.3 miles run/hike but ACTUAL = 657.6 miles
+  (~14× more).** POI/doctrine-based denominators are badly biased LOW. Use MEASURED.
+- NCAA CARA hours (20-hr rule) are an ACCOUNTING fiction (competition day counts
+  as 3h "regardless of actual duration") — never a proxy for exposure minutes.
+- NO NCAA sport has published "% of session above intensity threshold" → cannot
+  build intensity-weighted NCAA denominator. NCAA MVPA minutes unavailable.
+### NCAA session durations (MEASURED, min): FB preseason 142±16 (DeMartini 2011);
+  FB in-season 103-147 (Johnson 2025); FB game 117±51; W soccer practice 76±17,
+  match 116±12 (Gentles 2018); XC 76-83 min/day (Barney 2024); basketball ~104
+  (Huynh, provisional); M lacrosse match ~100 (derived, Moore 2025).
+  NOT FOUND: wrestling, swimming, rowing, track, baseball, M soccer, W lacrosse mean.
+### NCAA bylaws: preseason acclimatization now 7 DAYS (not 5; revised 10/27/21);
+  practice cap 3h on-field/day; ≤75 min full contact/session; in-season 20h/wk,
+  4h/day; out-of-season 8h/wk. Service-academy post-basic-training recruits exempt
+  from acclimatization.
+### Military MEASURED activity (min/day): Army BCT sedentary 505, light 190,
+  moderate 168±51, vigorous 14±14 (Alemany 2022, n=80); Army IET moderate 107±42,
+  vigorous 26±22, MVPA/wk 1202±291 (~172/day) (McAdam 2018); Simpson 2013 calisthenics
+  ~4% of time, running ~1.5%. Steps 13,459-16,311/day (Knapik 2007). USMC 11.5 mi/day,
+  4105 kcal/day (Kloss 2024).
+### Military PRESCRIBED: Army PT 45-60 min, 5-6×/wk (TC 3-22.20); USMC training day
+  ≤10h, Crucible 54h (MCO 1510.32D); BUD/S Hell Week 5-5.5 days, ~4h sleep, ≥80h
+  elapsed (Spiro 2024, Tharion 2003); "20h/day, 200 miles" = navyseals.com UNVERIFIED.
+### RECOMMENDED comparisons (exposure agent): (1) session vs session: FB preseason
+  142 min vs Army PT 45-60 min → football practice 2.4-3.2× longer. (2) daily
+  ambulatory: Army 11.7 km, USMC 11.5 mi vs football 3.5-5.9 km/practice → military
+  2-3× daily distance at lower intensity. (3) intensity-band minutes: military only.
+
+## S11 — NCAA-ISP exact AE denominators & comparability (VERIFIED, NCAA-ISP agent)
+### KEY: only ONE NCAA-ISP EHI study exists (Yeargin 2019); data end spring 2015
+  (11 yrs stale). NO NCAA-ISP study reports rhabdo, sickling, collapse, or
+  hyponatremia incidence. NO NCAA rhabdo rate with denominator exists anywhere.
+### Exact per-sport AE (2014-2019, Chandran/JAT 2021, 23 papers, ALL VERIFIED):
+  football 1,860,042; W track 622,258; M baseball 567,926; M basketball 478,150;
+  M track 455,609; W soccer 454,330; M ice hockey 435,120; W basketball 424,916;
+  W softball 385,922; M lacrosse 381,811; W volleyball 348,979; W swim/dive 336,851;
+  M soccer 331,678; W lacrosse 287,622; M swim/dive 218,050; M wrestling 190,862;
+  W ice hockey 156,195; W field hockey 124,643; W XC 108,347; M XC 90,723;
+  W gymnastics 73,361; W tennis 72,671; M tennis 56,895. Football preseason 540,266 AE.
+### Cooper 2016 (NOT ISP): football preseason EHI 553/365,810 = 1.52/1,000 AE (WBGT
+  study) vs Yeargin ISP football preseason practice 0.365/1,000 AE → 4× ASCERTAINMENT
+  GAP (dedicated study vs routine EMR). 0 heat stroke, 0 hyponatremia in Cooper.
+  Hottest-state football preseason practice 9.21/10,000 AE = 92.1/100,000 AE (max stratum).
+### ISP = convenience sample, ~2-7% of teams/sport (football 6.9%, XC 2%); ~30% of
+  institutions by 2018-19. Yeargin rates are UNWEIGHTED SAMPLE rates (national est.
+  needs weights × 0.883 under-report adj). ISP EXCLUDES individual workouts/conditioning
+  where 86.6% of NCAA fatalities occur → ISP rates biased DOWN vs military census.
+### Yeargin severity: 96% NTL or <1wk; only 1 EHS + 3 hyponatremia in 4.9M AE; authors
+  note NCCSIR found >15 EHS at non-sample schools (ISP under-captures severe tail).
+### Only directly comparable NCAA↔military denom: athlete-YEAR (NCCSIR) vs person-YEAR
+  (military). AE-based rates are a separate non-commensurable scale.
