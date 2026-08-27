@@ -150,3 +150,32 @@ accessed. "NOT VERIFIED" = located but the number could not be confirmed.
 - **Use:** recruit person-years ≈ accessions × (course weeks / 52). Feeds the
   denominator that converts MSMR per-100k-p-yr recruit rates into events per
   participant-minute.
+
+## S07 — Outbreak/cluster census (VERIFIED by outbreak agent, mixed source types)
+See data/outbreaks.csv. Key verified points & CORRECTIONS:
+- Iowa football 13 Jan 2011: 13 hospitalized; Smoot CJSM 2013 (PMID 23657120) +
+  UI Presidential Committee. Exposure denominator NOT obtained.
+- **Tufts men's lacrosse = Sept 2024 (NOT 2011); no MMWR exists.** 61 exposed,
+  24 cases, 9 hospitalized, ~75 min, ~250 burpees; Walters/Aliment report 2025.
+- **TWU volleyball = Aug 2016 (not 2018):** 18 exposed, 8 cases, 8 hospitalized;
+  Buckner report.
+- **"Collegiate swimming outbreak" = single event, USC Sept 2007** (Galvez CJSM
+  2008, PMID 18614891); 41 team, 7 cases. Do not double-count the 2011 retro news.
+- Oregon football 2017: 3 hospitalized, 1 permanent kidney damage (news/litigation).
+- Nebraska 2018 (2, 32-min); Concordia-Chicago 2022 (5-6); Ohio State
+  lacrosse/track (news); Houston soccer 2018 & 2019 (institutional audit).
+- **ROTC ECP (Raleigh Mil Med 2018, PMID 29635568): 44 cadets, 11 rhabdo (25%),
+  "Murph"-type; alcohol prior week RR 4.20; higher baseline fitness NOT protective.**
+- **Fort Benning IET (DeGroot MSMR 2022, PMID 35608507): 2017-21, 1911 heat
+  casualties incl 349 heat stroke, 38 hyponatremia; cluster def >=4/day; largest
+  cluster 20 casualties across 7 companies; only ONE instance of 3 heat-stroke
+  within one company in 5 yrs.** Military clusters are cross-unit/environmental;
+  collegiate clusters are single-team/point-source — a category difference.
+- HS McMinnville 2010 (Oh Sports Health 2012, PMID 23016070): 43/22/12; best-
+  documented point-source athletic outbreak, but HIGH SCHOOL — kept separate.
+- NOT FOUND (do not cite): Sam Houston St, Morehouse, UTSA; wrestling/rowing/
+  cheer clusters; any NCAA single-practice heat cluster; any MMWR report.
+- Selection-bias note: only 2/12 collegiate clusters peer-reviewed; case counts
+  severity-truncated; active case-finding gives 2.5-4x multiplier over
+  hospitalizations; denominators missing where they matter → report counts,
+  attack rates only where exposed N known; NEVER as population incidence.
