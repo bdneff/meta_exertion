@@ -449,3 +449,36 @@ See data/outbreaks.csv. Key verified points & CORRECTIONS:
 - GAP: no verified BUD/S rhabdo/heat incidence with class-size denominator across
   multiple classes; Ranger/OCS/ROTC/academy specifics not completed by agent
   (ROTC ECP cluster captured via S07/Raleigh 2018).
+
+## S12-FINAL — BUD/S & elite courses (VERIFIED, BUD/S agent OCR'd NETC investigation)
+### BUD/S Class 352 (NETC Command Investigation, 198pp, OCR primary source)
+- **58 candidates entered Hell Week (30 Jan 2022); 21 remained by 4 Feb.**
+- **1 death (Mullen; acute pneumonia + cardiomegaly) + 3 sent to hospital for
+  pneumonia (2 admitted, 1 intubated).** "6 hospitalized" is a NEWS figure NOT
+  supported by the official investigation (CI documents 3). 7 flagged high-risk
+  SIPE, 6 medically pulled.
+- Mullen had PRIOR exertional heat stroke (Aug 2021, Class 350) → returned via
+  BUMED waiver. Hell Week = 108.5h across 26 evolutions. 888 candidates/yr.
+- NSWCEN 2000-2022: 4 Class A + 1 Class B mishaps. Ascertainment FAILURE
+  documented: "no data on total number of SIPE cases occurring" (untracked).
+### BUD/S SIPE (swimming-induced pulmonary edema) — the denominator-bearing data
+- **Volk 2021 Chest: 106 SIPE / 2,117 NSW candidates = 5.0%** (prospective).
+- Sebreros 2023 Chest: 45 SIPE / 1,048 = 4.3%. NO published BUD/S rhabdo incidence
+  exists ("rhabdomyolysis" never appears in the 198-page investigation).
+### Ranger School: DeGroot 2015 EHI 4.06/1,000 person-days (6,650 soldiers); 2LT
+  Parros hyponatremia death 2016 (news); 1995 Florida 4 hypothermia deaths (ENV,
+  separate). Lightning MCI 2015: 44 injured, 20 admitted (17 for rhabdo/arrhythmia
+  obs) — ENVIRONMENTAL not exertional.
+### SFAS: Knapik 2019, 800 soldiers, 38% injured/12% ill (NO heat/rhabdo counts).
+### Marine OCS/TBS: Piantanida 2000, 480 candidates, 60.8% injured (MSK only; no
+  heat/rhabdo). 1968 Naval Officer Candidate rhabdo paper NOT retrieved.
+### AF Special Warfare: Hintz 2024 EHS 0.8/1,000 person-months (10 EHS/1,364
+  trainees); Sumait 2026 195 EHI (135 exhaustion+60 stroke) FY19-24.
+### ROTC ECP cluster (Raleigh 2018): 11/44 hospitalized rhabdo (25%) — best
+  military mass-exertional-rhabdo comparator; near-identical to Tufts (SEAL-led).
+### Service academies: NO cadet/midshipman-denominator exertional-illness study
+  exists (USMA/USNA/USAFA). Only installation MSMR proxies (NSA Annapolis 103 heat
+  cases 2020-24). GAP.
+### BEST comparator pairs (agent): ROTC 11/44 (25%) hosp vs Tufts 9/~50 (18%) hosp
+  — both mass exertional rhabdo, one military one NCAA, Tufts SEAL-led. BUD/S SIPE
+  5.0% has no NCAA analogue.
