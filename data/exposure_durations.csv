@@ -1,0 +1,12 @@
+exposure_id,population,context,metric,minutes_low,minutes_central,minutes_high,basis,source_note
+NCAA_FB_PRACTICE,NCAA football,preseason/in-season practice,total session strenuous min per AE (practice),90,120,150,PENDING S06 empirical practice-duration literature (NCAA CARA 3h preseason cap),to confirm
+NCAA_FB_COMP,NCAA football,competition,strenuous min per AE (game),150,180,210,PENDING S06,to confirm
+NCAA_MLAX,NCAA men's lacrosse,practice/comp,strenuous min per AE,80,105,130,PENDING S06,to confirm
+NCAA_WLAX,NCAA women's lacrosse,practice/comp,strenuous min per AE,80,105,130,PENDING S06,to confirm
+NCAA_SOCCER,NCAA soccer,practice/comp,strenuous min per AE,90,110,130,PENDING S06,to confirm
+NCAA_XC,NCAA cross-country,practice/comp,strenuous min per AE,45,60,90,PENDING S06,to confirm
+NCAA_WRESTLING,NCAA wrestling,practice,strenuous min per AE,90,120,150,PENDING S06,to confirm
+NCAA_BBALL,NCAA basketball,practice/comp,strenuous min per AE,90,120,150,PENDING S06,to confirm
+NCAA_GENERIC,NCAA all sports,mixed,strenuous min per AE,90,120,150,PENDING S06 pooled,to confirm
+MIL_PT_ONLY,Military recruit,formal PT only,strenuous min per training-day,45,60,90,PENDING S06 FM7-22/measured,denominator A
+MIL_ALL_STREN,Military recruit,all strenuous activity,strenuous min per training-day,120,240,360,PENDING S06 measured accelerometry,denominator B
