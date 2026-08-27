@@ -226,6 +226,30 @@ for ncaa_min in [90,120,150]:
             RR_mil_over_ncaa=round(mil_rate/ncaa_rate,2)))
 dfD=pd.DataFrame(sens); print(dfD.to_string(index=False)); dfD.to_csv(os.path.join(OUT,"tableD_sensitivity.csv"),index=False)
 
+
+# ===========================================================================
+bn("SEASON / CLIMATE NORMALIZATION of the EHI ranking (heat-opportunity confound)")
+# ===========================================================================
+# Yeargin state-temperature tertiles = climate-exposure proxy (the only lever available)
+print("Climate multiplier WITHIN football preseason practice: hottest 9.21 vs coolest 1.28 /10,000 AE = 7.2x")
+print("Overall hottest-tertile IRR vs cooler = 3.16\n")
+season=[("football",1.054,"warm-outdoor","Aug preseason"),
+ ("women's outdoor track",0.509,"warm-outdoor","spring/summer"),
+ ("men's cross-country",0.426,"warm-outdoor","fall"),
+ ("men's basketball",0.398,"cool-INDOOR","winter — no weather excuse"),
+ ("men's soccer",0.344,"warm-outdoor","fall"),
+ ("women's soccer",0.331,"warm-outdoor","fall"),
+ ("men's wrestling",0.258,"cool-INDOOR","winter + weight-cut dehydration"),
+ ("women's lacrosse",0.041,"cool-spring","Jan-May"),
+ ("men's lacrosse",0.006,"cool-spring","Jan-May")]
+dfSeason=pd.DataFrame(season,columns=["sport","EHI_per_1e6min","heat_exposure_class","season_note"])
+print(dfSeason.to_string(index=False))
+dfSeason.to_csv(os.path.join(OUT,"season_climate_context.csv"),index=False)
+print("\nINTERPRETATION: the EHI ranking is substantially a warm-season-outdoor ranking.")
+print("Basketball/wrestling generate EHI INDOORS in winter -> genuine metabolic-conditioning")
+print("signal, not climate. Cool-season sports (lacrosse) cannot be assessed on heat illness")
+print("at all; their exertional risk is rhabdo/collapse, for which NO NCAA denominator exists.")
+
 # save machine-readable summary
 with open(os.path.join(OUT,"summary.json"),"w") as fh:
     json.dump({"rate_ratios":rr,"mortality_permin":mm,

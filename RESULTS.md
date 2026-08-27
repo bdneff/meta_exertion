@@ -25,10 +25,17 @@ Three robust conclusions survive every sensitivity assumption:
    of the *same order of magnitude* (~0.03–0.14 serious events per 1,000,000
    participant-minutes). Neither population is dramatically safer than the other
    once exposure is measured correctly.
-2. **Within the NCAA, football is a genuine exertional-illness outlier; lacrosse is
-   not.** Football's per-minute EHI rate (~1.05/10⁶ min) is 2–13× every other sport.
-   Men's and women's lacrosse rank at or near the *bottom* — their reputation comes
-   from a single publicized 2024 outbreak, not baseline risk.
+2. **Football tops the heat-illness ranking, but that ranking is climate-confounded.**
+   Football's per-minute EHI rate (~1.05/10⁶ min) leads, yet heat illness can only
+   occur in heat, so the ranking substantially reflects *when and where* a sport plays
+   (football = August, outdoor) rather than conditioning intensity alone — within
+   football, the preseason rate is 7.2× higher in the hottest vs coolest states.
+   Cool-season sports (men's & women's lacrosse, wrestling, swimming) sit near zero
+   partly *by climate*; for them, EHI is the wrong endpoint and their near-zero rate is
+   uninformative, not proof of safety. The purest conditioning-intensity signal is
+   **men's basketball** — heat illness generated indoors, in winter, with no weather to
+   blame. Lacrosse's public reputation rests on a single 2024 rhabdomyolysis outbreak,
+   and rhabdomyolysis (its actual risk endpoint) has no NCAA incidence denominator.
 3. **Publicized "hell week" hospital clusters are extreme outliers, not baseline.**
    Outbreak hospitalization rates run **10³–10⁵× above** either population's baseline
    (Fig 5). They are selected-on-outcome and must never be read as population incidence.
@@ -190,6 +197,22 @@ athlete-seasons)** — mostly sudden cardiac death — followed by football (3.1
 swimming (2.55), wrestling (2.39). **Lacrosse ranks near the bottom on every metric;
 its media prominence is entirely attributable to the 2024 Tufts outbreak (§7), not
 to baseline risk.**
+
+**Climate confound (important — the ranking is heat-opportunity × intensity, not pure intensity).**
+Exertional *heat* illness can only occur when it is hot, so ranking sports by EHI substantially ranks
+them by how much of their season is spent outdoors in the heat. Within football alone the preseason EHI
+rate is **7.2× higher in the hottest vs coolest states** (9.21 vs 1.28/10,000 AE); football tops the
+list partly because it trains in August. The warm-season outdoor sports (football, outdoor track, cross-
+country, soccer) cluster at the top; the cool-season/indoor sports (lacrosse, wrestling, swimming,
+basketball, hockey) sit low partly by climate, not by safe conditioning. Two consequences: (a) **men's
+basketball (0.40/10⁶ min) is arguably the more interesting outlier** — it generates heat illness indoors
+in winter, a purer conditioning-intensity signal with no weather to blame; wrestling (0.26) adds weight-
+cut dehydration. (b) **For a cool-season sport like men's lacrosse, heat illness is the wrong endpoint
+entirely** — its ~0 EHI rate is uninformative about its exertional risk, which manifests as
+rhabdomyolysis/exertional collapse (the flagship Tufts men's-lacrosse cluster). A rigorous fix would
+normalize each sport's rate by its heat exposure (per WBGT-degree-day), but per-sport-by-season
+environmental data do not exist in the surveillance literature, and the climate-neutral endpoint (rhabdo)
+has no NCAA incidence denominator for any sport. See `analysis/output/season_climate_context.csv`.
 
 ---
 

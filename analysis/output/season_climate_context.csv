@@ -1,0 +1,10 @@
+sport,EHI_per_1e6min,heat_exposure_class,season_note
+football,1.054,warm-outdoor,Aug preseason
+women's outdoor track,0.509,warm-outdoor,spring/summer
+men's cross-country,0.426,warm-outdoor,fall
+men's basketball,0.398,cool-INDOOR,winter — no weather excuse
+men's soccer,0.344,warm-outdoor,fall
+women's soccer,0.331,warm-outdoor,fall
+men's wrestling,0.258,cool-INDOOR,winter + weight-cut dehydration
+women's lacrosse,0.041,cool-spring,Jan-May
+men's lacrosse,0.006,cool-spring,Jan-May

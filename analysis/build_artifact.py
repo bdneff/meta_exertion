@@ -231,6 +231,36 @@ footer code{{font-family:"IBM Plex Mono",monospace;background:var(--surface);pad
   basketball leads (sudden cardiac death), then football, swimming, wrestling.</p>
   <figure><img alt="Bar chart ranking NCAA sports by heat illness per participant-minute" src="{F3}">
     <figcaption>Fig 3 · Football's per-minute EHI rate is 2–13× every other sport. Women's lacrosse ranks last.</figcaption></figure>
+  <div class="key mil"><p><strong>But heat illness is a climate-confounded yardstick.</strong> This
+  ranking largely sorts sports by how much of their season falls outdoors in the heat — not by how hard
+  they condition. Football is #1 substantially because it trains in <em>August</em>: within football
+  alone, the preseason EHI rate is <strong>7.2× higher in the hottest states than the coolest</strong>
+  (9.21 vs 1.28 per 10,000 exposures). A January–May sport like lacrosse cannot produce heat illness at
+  any workout intensity, so its ~0 rate says nothing about its conditioning risk.</p></div>
+  <div class="tw"><table>
+    <caption>Season / climate context · EHI ranking split by heat-exposure opportunity</caption>
+    <thead><tr><th>Sport</th><th class="num">EHI /10⁶ min</th><th>Heat-exposure class</th></tr></thead>
+    <tbody>
+      <tr class="ncaa"><td>Football</td><td class="num">1.05</td><td>warm-outdoor · Aug preseason</td></tr>
+      <tr class="ncaa"><td>Women's outdoor track</td><td class="num">0.51</td><td>warm-outdoor · spring/summer</td></tr>
+      <tr class="ncaa"><td>Men's cross-country</td><td class="num">0.43</td><td>warm-outdoor · fall</td></tr>
+      <tr><td>Men's basketball</td><td class="num">0.40</td><td><strong>cool · INDOOR — no weather excuse</strong></td></tr>
+      <tr class="ncaa"><td>Men's / women's soccer</td><td class="num">0.33</td><td>warm-outdoor · fall</td></tr>
+      <tr><td>Men's wrestling</td><td class="num">0.26</td><td><strong>cool · INDOOR + weight-cut</strong></td></tr>
+      <tr><td>Women's lacrosse</td><td class="num">0.04</td><td>cool · Jan–May</td></tr>
+      <tr><td>Men's lacrosse</td><td class="num">0.006</td><td>cool · Jan–May</td></tr>
+    </tbody>
+  </table></div>
+  <p>The tell is <strong>men's basketball</strong>: it generates heat illness <em>indoors, in winter</em>,
+  ranking with the fall outdoor sports despite no environmental heat — a purer signal of
+  metabolic-conditioning intensity than football's climate-inflated number. Wrestling is similar (winter,
+  plus weight-cut dehydration). A proper fix would normalize each sport by its heat exposure (e.g. per
+  WBGT-degree), but the per-sport-by-season environmental data don't exist in the surveillance record. The
+  climate-neutral endpoint — <strong>rhabdomyolysis / exertional collapse</strong> — is where a cool-season
+  sport's risk actually appears (the Tufts men's-lacrosse cluster), and for that endpoint <strong>no NCAA
+  sport has a published incidence rate at all.</strong> So the honest read: this figure ranks
+  <em>heat opportunity × intensity</em>, and men's lacrosse's near-zero is uninformative about its true
+  exertional risk, not evidence of safety.</p>
   <figure><img alt="Bar chart of military recruit heat illness by BCT installation" src="{F4}">
     <figcaption>Fig 4 · Among recruits, Fort Benning runs ~4× the coolest Army BCT sites (Barnes 2019, observed person-weeks).</figcaption></figure>
 </section>
