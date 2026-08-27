@@ -430,3 +430,22 @@ See data/outbreaks.csv. Key verified points & CORRECTIONS:
   note NCCSIR found >15 EHS at non-sample schools (ISP under-captures severe tail).
 ### Only directly comparable NCAA↔military denom: athlete-YEAR (NCCSIR) vs person-YEAR
   (military). AE-based rates are a separate non-commensurable scale.
+
+## S12 — BUD/S / elite courses (PARTIAL; primary BUD/S agent stalled — self-sourced)
+- **BUD/S Class 352, Feb 2022 (Kyle Mullen death):** class began >200; ~24 remained
+  entering/after Hell Week; **1 death (Mullen, pneumonia/cardiomegaly, post-Hell
+  Week) + 6 classmates hospitalized** after Hell Week. >200 MSK injuries documented
+  in 3 wk pre-Hell Week. Source: NBC/CBS/USNI/RollingStone (news + Navy/NETC
+  investigation referenced). Swimming-induced pulmonary edema (SIPE) frequent in
+  SEAL training. ACCESS: news + investigation summaries; full NETC report not
+  directly parsed. Grade C/D.
+- **Interpretation:** BUD/S Hell Week (~5-5.5 d near-continuous, ~4h sleep total,
+  S06) produces OUTBREAK-LEVEL casualty rates BY DESIGN — attack rate (hospitalized)
+  ~7/~30-40 ≈ 0.15-0.23 in one Hell Week, comparable to a collegiate rhabdo
+  outbreak (Tufts 0.148). BUD/S is a selected extreme environment, NOT a baseline
+  population rate; compare to NCAA "hell week" outbreaks, not to NCAA baseline.
+- Hell Week exposure minutes ≈ 5 d × ~16-20h active = ~4,800-6,000 min (20h/day
+  figure UNVERIFIED per S06).
+- GAP: no verified BUD/S rhabdo/heat incidence with class-size denominator across
+  multiple classes; Ranger/OCS/ROTC/academy specifics not completed by agent
+  (ROTC ECP cluster captured via S07/Raleigh 2018).
