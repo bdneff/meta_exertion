@@ -1,0 +1,61 @@
+{
+  "rate_ratios": [
+    [
+      "Mil recruit death(OLD,B) / NCAA football death /min",
+      2.36,
+      1.32,
+      4.1
+    ],
+    [
+      "Mil recruit death(OLD,A) / NCAA football death /min",
+      8.08,
+      4.42,
+      14.5
+    ],
+    [
+      "skip",
+      0,
+      0,
+      0
+    ],
+    [
+      "Mil recruit serious(B)/NCAA EHI transport per-min",
+      1.25,
+      0.67,
+      2.38
+    ],
+    [
+      "Mil recruit serious(A)/NCAA EHI transport per-min",
+      4.29,
+      2.26,
+      8.35
+    ]
+  ],
+  "mortality_permin": [
+    [
+      "Mil recruit exercise death OLD (A)",
+      0.0096,
+      0.0072,
+      0.0131
+    ],
+    [
+      "Mil recruit exercise death OLD (B)",
+      0.0028,
+      0.0022,
+      0.0036
+    ],
+    [
+      "NCAA football nontraumatic death",
+      0.0012,
+      0.0007,
+      0.002
+    ],
+    [
+      "NCAA all-sport exertional SCD",
+      0.0005,
+      0.0003,
+      0.0008
+    ]
+  ],
+  "ncaa_exert_death_per100k_yr": 1.097
+}

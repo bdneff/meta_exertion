@@ -1,0 +1,14 @@
+id,inst,sport,exposed,cases,hosp,workout_min,attack_rate_hosp,hosp_per_1e6min
+C1,University of South Carolina,swimming M+W,41.0,7,,,NA,NA
+C2,University of Iowa,football,,13,13.0,,NA,NA
+C3,Ohio State,women's lacrosse,,6,6.0,,NA,NA
+C6,Texas Woman's University,women's volleyball,18.0,8,8.0,,0.444,NA
+C7,University of Oregon,football,,3,3.0,60.0,NA,NA
+C8,University of Houston,women's soccer,,1,1.0,60.0,NA,NA
+C9,University of Houston,women's soccer,,12,,,NA,NA
+C10,University of Nebraska,football,,2,2.0,32.0,NA,NA
+C11,Concordia University Chicago,men's basketball D-III,,6,6.0,,NA,NA
+C12,Tufts University,men's lacrosse D-III,61.0,24,9.0,75.0,0.148,1967.2
+H1,McMinnville HS Oregon,football,43.0,22,12.0,22.0,0.279,12685.0
+M4,US Army ROTC (unnamed),ROTC cadets,44.0,11,11.0,,0.25,NA
+M6,Fort Benning GA,initial entry training,,1911,,,NA,NA

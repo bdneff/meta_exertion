@@ -1,0 +1,7 @@
+population,events,exposure,min_per_exp,denom,rate_per_1e6min,ci_lo,ci_hi,point,quality,note
+NCAA all-sports: EHI emergency transport,19,4908478,90-120-150,NCAA total-session min,0.0328,0.019,0.0548,0.0323,B,ISP transports only; EXCLUDES conditioning where deaths/rhabdo occur -> underestimate
+NCAA football: EHI emergency transport,9,1122581,120-140-175,NCAA total-session min,0.0556,0.0263,0.104,0.0573,B,9 transports/174 EHI; sanctioned practice/comp only
+Military recruit: heat stroke + rhabdo-hosp (denom B),49,23150,43000-57000-61000 /yr,all MVPA,0.041,0.029,0.0573,0.0371,B,2024 MSMR; serious=heat stroke+rhabdo inpatient
+Military recruit: heat stroke + rhabdo-hosp (denom A),49,23150,11700-15200-18720 /yr,formal PT only,0.1403,0.0964,0.2053,0.1393,B,2024 MSMR; serious=heat stroke+rhabdo inpatient
+Military recruit (Army BCT): ALL heat illness (denom B),1210,3362271,825-1140-1200 /p-wk,all MVPA,0.3556,0.2975,0.4366,0.3157,A,Barnes 2019 observed person-weeks; all-severity (mostly heat exhaustion)
+Military recruit (Army BCT): ALL heat illness (denom A),1210,3362271,225-292-360 /p-wk,formal PT only,1.2308,0.9954,1.5902,1.2325,A,Barnes 2019 observed person-weeks; all-severity (mostly heat exhaustion)

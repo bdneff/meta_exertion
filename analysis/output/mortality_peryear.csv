@@ -1,0 +1,9 @@
+population,deaths,person_years,rate_per_100k_yr,ci_lo,ci_hi,note
+NCAA all-sport exertional SCD,72,9106516,0.791,0.619,0.996,Petek 2024; 50% of 143 SCD exertional
+NCAA all-sport heat-illness death,3,4242519,0.071,0.015,0.207,Harmon 2015
+NCAA all-sport SCT/sickling death,10,4242519,0.236,0.113,0.433,Harmon 2015
+NCAA football non-traumatic death (conditioning),34,1285095,2.646,1.832,3.697,Boden 2020; 100% conditioning
+Military recruit exercise-related death (1977-2001),141,969231,14.548,12.246,17.157,Scoville/Borden; OLD regime
+Military recruit nontraumatic sudden death (1977-2001),126,969231,13.0,10.829,15.478,Eckart 2004
+Military recruit EHI death (1977-2001),30,969231,3.095,2.088,4.419,Scoville/Borden
+Military recruit exertional SCD (1977-2001),60,969231,6.19,4.724,7.968,Scoville/Borden

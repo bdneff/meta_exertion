@@ -1,0 +1,42 @@
+population,diagnosis,events,denom_value,denom_unit,orig_rate,orig_rate_unit,quality
+NCAA all sports,exertional heat illness,232.0,4908478.0,athlete-exposures,0.47,per10000AE,A
+NCAA all sports,exertional heat illness,150.0,1293103.0,athlete-exposures,1.16,per10000AE,B
+NCAA all sports,exertional heat illness,82.0,3565217.0,athlete-exposures,0.23,per10000AE,B
+NCAA all sports,EHI requiring emergency transport,19.0,4908478.0,athlete-exposures,0.0387,per10000AE,A
+football,exertional heat illness,174.0,1122581.0,athlete-exposures,1.55,per10000AE,A
+football,exertional heat illness,,,athlete-exposures,3.65,per10000AE,B
+men's basketball,exertional heat illness,12.0,292683.0,athlete-exposures,0.41,per10000AE,A
+women's soccer,exertional heat illness,8.0,266667.0,athlete-exposures,0.3,per10000AE,A
+men's soccer,exertional heat illness,6.0,193548.0,athlete-exposures,0.31,per10000AE,A
+women's outdoor track,exertional heat illness,6.0,101695.0,athlete-exposures,0.59,per10000AE,A
+men's wrestling,exertional heat illness,3.0,103448.0,athlete-exposures,0.29,per10000AE,A
+men's cross-country,exertional heat illness,3.0,62500.0,athlete-exposures,0.48,per10000AE,A
+women's lacrosse,exertional heat illness,1.0,142857.0,athlete-exposures,0.07,per10000AE,A
+men's lacrosse,exertional heat illness,0.0,,athlete-exposures,0.0,per10000AE,A
+football,non-traumatic exertional death,34.0,1285095.0,player-years,2.65,per100000py,A
+football,exertional heat stroke death,8.0,1285095.0,player-years,0.62,per100000py,A
+football,exertional sickling death,12.0,1285095.0,player-years,0.93,per100000py,A
+NCAA all sports,SCT-associated death,10.0,4242519.0,athlete-years,0.236,per100000ay,A
+All-service recruit trainees,exertional rhabdomyolysis,95.0,23150.0,recruit-person-years,410.4,per100000py,B
+All-service recruit trainees,exertional rhabdomyolysis hospitalized,22.0,23150.0,recruit-person-years,95.0,per100000py,B
+All-service recruit trainees,exertional heat stroke,27.0,23150.0,recruit-person-years,116.6,per100000py,B
+All-service recruit trainees,heat exhaustion,553.0,23150.0,recruit-person-years,2388.9,per100000py,B
+All-service recruit trainees,all heat illness,580.0,23150.0,recruit-person-years,2505.5,per100000py,B
+All-service recruit trainees,exertional rhabdomyolysis,62.0,28310.0,recruit-person-years,219.0,per100000py,B
+All-service recruit trainees,exertional heat stroke,36.0,28310.0,recruit-person-years,127.1,per100000py,B
+All-service recruit trainees,heat exhaustion,414.0,28310.0,recruit-person-years,1462.2,per100000py,B
+All-service recruit trainees,non-traumatic sudden death,126.0,969231.0,recruit-person-years,13.0,per100000py,B
+All-service recruit trainees,exercise-related sudden death,108.0,969231.0,recruit-person-years,11.1,per100000py,B
+Female recruits,non-traumatic sudden death,15.0,131579.0,recruit-person-years,11.4,per100000py,B
+Marine recruits,exertional heat illness,1454.0,50077.0,recruit-person-years,,,B
+Army male recruits,clinically diagnosed rhabdomyolysis,1086.0,,soldiers,0.19,percent,C
+AF BMT trainees,heat illness,51.0,39231.0,recruit-person-years,1.3,per1000trainees,C
+Army BCT recruits,exertional heat illness,1210.0,3362271.0,person-weeks,3.6,per10000pw,A
+Army BCT Fort Benning,exertional heat illness,205.0,30185.0,person-weeks,6.8,per10000pw,A
+Army BCT recruits,exertional heat illness,686.0,1055385.0,person-weeks,6.5,per10000pw,A
+Army IET Fort Benning,exertional heat stroke,349.0,,,,,C
+All-service recruit trainees,exercise-related death,141.0,969231.0,recruit-person-years,14.6,per100000py,B
+All-service recruit trainees,exertional sickling death (SCT),27.0,969231.0,recruit-person-years,2.78,per100000py,B
+USAF BMT trainees,non-traumatic death,5.0,463000.0,trainees,1.08,per100000trainees,B
+All-service recruit trainees,exertional hyponatremia,11.0,23256.0,recruit-person-years,47.3,per100000py,B
+Black active-duty Army,exertional rhabdomyolysis,391.0,134167.0,person-years,291.0,per100000py,B
