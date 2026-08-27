@@ -179,3 +179,59 @@ See data/outbreaks.csv. Key verified points & CORRECTIONS:
   severity-truncated; active case-finding gives 2.5-4x multiplier over
   hospitalizations; denominators missing where they matter → report counts,
   attack rates only where exposed N known; NEVER as population incidence.
+
+## S08 — NCCSIR / catastrophic & fatal NCAA data (VERIFIED, multiple primary sources)
+### S08a Boden 2020 OJSM Part 1 (PMC7440734) — CLEANEST NCAA football death rate
+- NCAA football, male, Jul1998-Jun2018 (20 AY). Denominator **1,285,095 NCAA
+  player-years** (avg 64,255/yr). NCAA-pure (3 NJCAA + 1 NAIA excluded).
+- **All non-traumatic: 34 deaths, 2.65/100,000 player-yr** (OR vs HS 4.1, 2.8-5.9).
+  - Sudden cardiac arrest 13, 1.01/100k
+  - Exertional heat stroke 8, 0.62/100k (OR vs HS 4.21)
+  - Exertional sickling w/ SCT 12, 0.93/100k (OR vs HS 22.1, 9.6-51.2)
+  - Asthma 1, 0.08; hyponatremia 0.
+- 2003 acclimatization bylaw: NO effect on EHS (OR 0.86). 2010 SCT screening:
+  DI ES-SCT 3.34→0.40/100k, 88% drop (OR 0.12, P=.04).
+### S08b Boden 2020 OJSM Part 2 (PMC7444123)
+- **ALL 34/34 NCAA non-traumatic football deaths occurred during CONDITIONING.**
+  HS+college pooled: 86.6% practice/conditioning; ≥36 punishment-intent;
+  94.7% high-intensity aerobic; EHS deaths 97.1% linemen.
+### S08c Anderson 2017 JAT (PMC5343527)
+- NCAA football 2000-2016: 33 in-sport deaths = 27 non-traumatic + 6 traumatic
+  (4.5:1). 27 non-traumatic: 12 ECAST, 9 SCD, 5 EHS, 1 asthma; ALL in
+  conditioning/practice, 0 in games. ~2 NCAA football deaths/season.
+### S08d Harmon/Petek NCAA SCD registries (athlete-year denominators)
+- Harmon 2015 Circulation (PMC4496313): 2003-13, **4,242,519 AY**, 514 deaths;
+  medical 147 (1:28,861), SCD 79 (1:53,703), SCT 10 (1:424,252 = 0.236/100k),
+  heat illness 3 (1:1,414,173 = 0.071/100k). DI men's basketball SCD 1:5,200 AY.
+- Petek 2024 Circulation (PMC10843024): 2002-22, **9,106,516 AY**, 1102 deaths,
+  143 SCD = 1:63,682 (1.57/100k). **Exertional 72/143 (50%)**, non-exertional 41%.
+  Football SCD 1:31,743; basketball 1:19,164 (M 1:11,799). SCD 5-yr IRR 0.71
+  (declining). NCCSIR captured only 63/143 (44%) of NCAA SCD — under-ascertainment.
+- Harmon 2012 BJSM: DI football SCT-positive exertional death 1:827, RR 37×.
+- Buchanan 2020 Sports Health: DI football daSCT 1:28,145→1:250,468 AY post-2010
+  (89% drop, P=.022).
+### S08e NCCSIR 42nd Annual Report (2025) — all-sport, "college"=NCAA+NAIA+NJCAA
+- College all-sport indirect (exertional/medical) 1982-2024: 285 events,
+  **~1.81/100,000 participant-seasons** (denom 15,829,701 athlete-seasons).
+- FATAL indirect rates/100k athlete-seasons: M basketball 6.34, football M 3.10,
+  swimming M 2.55, wrestling M 2.39. Serious(non-fatal): F lacrosse 2.20,
+  volleyball F 1.78, wrestling M 1.37.
+- 2016-17→2020-21 college non-traumatic fatalities 0.85/100k (21 deaths).
+- CAVEAT: numerator includes NAIA/NJCAA, denominator NCAA-only → OVERESTIMATE.
+### S08f NCAA SSI 2019 Interassociation Recommendations
+- **Rhabdomyolysis: since 2007, 57 NCAA athletes, 9 team outbreaks, 8 institutions,
+  51 hospitalized** (via Eichner 2016; no denominator exists). NO NCAA rhabdo
+  incidence rate exists anywhere in the literature.
+- College football since 1960: 99 non-traumatic vs 51 traumatic deaths.
+  2001-2017: 35 non-traumatic vs 7 traumatic (5:1), "largely out-of-season/preseason."
+### S08g Moseley/Kucera 2024 Ann Med — LACROSSE catastrophic
+- 1982-2020: 69 lacrosse events (17 college); IR 0.5/100,000 athlete-seasons;
+  collegiate vs HS IRR 3.2 (1.8-5.7); 15 non-traumatic SCAs.
+### KEY COMPARABILITY CAVEATS
+- NCAA-ISP EHI (Yeargin) covers ONLY sanctioned practice/competition; EXCLUDES
+  the S&C/conditioning window where ~100% of NCAA exertional DEATHS occur.
+  Fatal and non-fatal NCAA datasets do NOT share an exposure window.
+- Three incompatible NCAA denominators: athlete-seasons (NCCSIR), athlete-years
+  (Harmon/Petek), athlete-exposures (ISP). Not interconvertible without assumptions.
+- Task-brief citation "Boden Sports Health 2013" does not exist; correct = Boden
+  OJSM 2020 Parts 1&2 + Boden AJSM 2013 (PMID 23477766, abstract only).

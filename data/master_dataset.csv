@@ -1,0 +1,25 @@
+row_id,source_id,population_group,population,sport_program,sex,division,phase,years,endpoint,diagnosis,events,denom_value,denom_unit,orig_rate,orig_rate_unit,orig_ci,denom_type,quality,notes
+N01,S01,NCAA,NCAA all sports,all,both,I-III,all,2009-2015,EHI_any,exertional heat illness,232,4908478,athlete-exposures,0.47,per10000AE,"0.41-0.53",observed,A,"NCAA-ISP; sanctioned practice/comp only"
+N02,S01,NCAA,NCAA all sports,all,both,I-III,preseason,2009-2015,EHI_any,exertional heat illness,150,1293103,athlete-exposures,1.16,per10000AE,NA,observed,B,"preseason practice; AE reconstructed from rate"
+N03,S01,NCAA,NCAA all sports,all,both,I-III,non-preseason,2009-2015,EHI_any,exertional heat illness,82,3565217,athlete-exposures,0.23,per10000AE,NA,observed,B,"AE reconstructed"
+N04,S01,NCAA,NCAA all sports,all,both,I-III,all,2009-2015,serious_transport,EHI requiring emergency transport,19,4908478,athlete-exposures,0.0387,per10000AE,NA,observed,A,"8% of 232 EHI; SERIOUS ENDPOINT anchor"
+N05,S01,NCAA football,football,football,M,I-III,all,2009-2015,EHI_any,exertional heat illness,174,1122581,athlete-exposures,1.55,per10000AE,"1.32-1.78",observed,A,"AE=174/1.55*10000"
+N06,S01,NCAA football,football,football,M,I-III,preseason,2009-2015,EHI_any,exertional heat illness,NA,NA,athlete-exposures,3.65,per10000AE,NA,observed,B,"preseason IRR 5.82 vs other"
+N07,S01,NCAA,men's basketball,basketball,M,I-III,all,2009-2015,EHI_any,exertional heat illness,12,292683,athlete-exposures,0.41,per10000AE,"0.18-0.65",observed,A,"AE reconstructed"
+N08,S01,NCAA,women's soccer,soccer,W,I-III,all,2009-2015,EHI_any,exertional heat illness,8,266667,athlete-exposures,0.30,per10000AE,"0.09-0.50",observed,A,NA
+N09,S01,NCAA,men's soccer,soccer,M,I-III,all,2009-2015,EHI_any,exertional heat illness,6,193548,athlete-exposures,0.31,per10000AE,"0.06-0.56",observed,A,NA
+N10,S01,NCAA,women's outdoor track,track,W,I-III,all,2009-2015,EHI_any,exertional heat illness,6,101695,athlete-exposures,0.59,per10000AE,"0.12-1.07",observed,A,NA
+N11,S01,NCAA,men's wrestling,wrestling,M,I-III,all,2009-2015,EHI_any,exertional heat illness,3,103448,athlete-exposures,0.29,per10000AE,"0.00-0.61",observed,A,NA
+N12,S01,NCAA,men's cross-country,cross-country,M,I-III,all,2009-2015,EHI_any,exertional heat illness,3,62500,athlete-exposures,0.48,per10000AE,"0.00-1.02",observed,A,NA
+N13,S01,NCAA,women's lacrosse,lacrosse,W,I-III,all,2009-2015,EHI_any,exertional heat illness,1,142857,athlete-exposures,0.07,per10000AE,"0.00-0.20",observed,A,"AE=1/0.07*10000"
+N14,S01,NCAA,men's lacrosse,lacrosse,M,I-III,all,2009-2015,EHI_any,exertional heat illness,0,NA,athlete-exposures,0.00,per10000AE,NA,observed,A,"zero EHI events"
+N15,S08a,NCAA football,football,football,M,I-III,all_conditioning,1998-2018,death_nontraumatic,non-traumatic exertional death,34,1285095,player-years,2.65,per100000py,NA,observed,A,"Boden OJSM 2020 Pt1; NCAA-pure; 100% in conditioning"
+N16,S08a,NCAA football,football,football,M,I-III,conditioning,1998-2018,death_EHS,exertional heat stroke death,8,1285095,player-years,0.62,per100000py,NA,observed,A,NA
+N17,S08a,NCAA football,football,football,M,I-III,conditioning,1998-2018,death_sickling,exertional sickling death,12,1285095,player-years,0.93,per100000py,NA,observed,A,"SCT; OR vs HS 22.1"
+N18,S08a,NCAA football,football,football,M,I-III,conditioning,1998-2018,death_SCD,sudden cardiac death,13,1285095,player-years,1.01,per100000py,NA,observed,A,NA
+N19,S08d,NCAA,NCAA all sports,all,both,I-III,all,2002-2022,death_SCD,sudden cardiac death,143,9106516,athlete-years,1.57,per100000ay,"1.33-1.85",observed,A,"Petek 2024; exertional 50%"
+N20,S08d,NCAA,NCAA all sports,all,both,I-III,exertion,2002-2022,death_SCD_exertional,exertional sudden cardiac death,72,9106516,athlete-years,0.79,per100000ay,NA,observed,B,"50% of 143 exertional"
+N21,S08d,NCAA,NCAA all sports,all,both,I-III,all,2003-2013,death_heat,heat illness death,3,4242519,athlete-years,0.071,per100000ay,NA,observed,A,"Harmon 2015; 1:1,414,173"
+N22,S08d,NCAA,NCAA all sports,all,both,I-III,all,2003-2013,death_sickling,SCT-associated death,10,4242519,athlete-years,0.236,per100000ay,NA,observed,A,"Harmon 2015; 1:424,252"
+N23,S08f,NCAA,NCAA all sports,all,both,I-III,conditioning,2007-2019,rhabdo_outbreak,exertional rhabdomyolysis (outbreak census),57,NA,NA,NA,NA,NA,unavailable,D,"9 outbreaks 8 institutions 51 hospitalized; NO denominator"
+N24,S08g,NCAA lacrosse,lacrosse combined,lacrosse,both,I-III,all,1982-2020,catastrophic_any,catastrophic incl non-traumatic,17,NA,athlete-seasons,0.5,per100000as,"0.4-0.7",observed,B,"Moseley 2024; college subset; IRR vs HS 3.2"
